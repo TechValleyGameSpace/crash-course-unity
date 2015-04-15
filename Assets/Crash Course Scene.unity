@@ -147,6 +147,22 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
+--- !u!1 &275678041 stripped
+GameObject:
+  m_PrefabParentObject: {fileID: 100000, guid: d8a2c32dcc9741840b04731722c7a7c5, type: 3}
+  m_PrefabInternal: {fileID: 1949784763}
+--- !u!64 &275678045
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 275678041}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Convex: 0
+  m_Mesh: {fileID: 4300000, guid: d8a2c32dcc9741840b04731722c7a7c5, type: 3}
 --- !u!1001 &1702532213
 Prefab:
   m_ObjectHideFlags: 0
